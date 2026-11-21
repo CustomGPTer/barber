@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://customgpter.github.io/barber/sitemap.xml
